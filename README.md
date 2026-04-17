@@ -1,16 +1,32 @@
-## Hi there 👋
+rishutosh-sketch/README.md
+# Hey there 👋
 
-<!--
-**rishutosh-sketch/rishutosh-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rishutosh prasad sahu**,a **Data Analyst & Data Engineer** .
 
-Here are some ideas to get you started:
+I work with data to extract insights, build pipelines, and solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is my space where I share projects, experiments, and things I’m currently learning.
+
+## 🛠️ Tools & Tech
+
+* Python, SQL
+* Power BI
+* Git & GitHub
+
+---
+
+## 🚀 A Bit About Me
+
+* 📊 I enjoy working with data and finding patterns
+* ⚡ I like simple, clean, and useful solutions
+
+---
+
+## 📌 Current Focus
+
+* Data analysts and  Engineering concepts
+* SQL & Advanced Queries
+* Building portfolio projects
+
+---
+
